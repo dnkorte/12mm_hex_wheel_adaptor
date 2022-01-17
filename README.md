@@ -5,7 +5,7 @@
 </h1>
 
 
-The RC (Radio Control) cars and truck hobbiest market has made be-zillions of tires/wheels available in various sizes, styles, and materials.  Just go to Amazon or wherever your favorite hobby store to find a huge variety.  The industry has a pretty standard mounting configuration which is based on a 12mm hex nut.  The wheels have a "socket" to hold the 12mm nut, and most RC vehicles have axles (or axle adaptors) that will fit to those nuts.  Typically the wheels attach to the 12mm nut by means of a screw at wheel center.
+The RC (Radio Control) cars and truck hobbiest market has made be-zillions of tires/wheels available in various sizes, styles, and materials.  Just go to Amazon or  your favorite hobby store to find a huge variety.  The industry has a pretty standard mounting configuration which is based on a 12mm hex nut.  The wheels have a "socket" to hold the 12mm nut, and most RC vehicles have axles (or axle adaptors) that will fit to those nuts.  Typically the wheels attach to the 12mm nut by means of a screw at wheel center.
 
 This project creates 3d-printable hub adaptors that mate those 12mm hex nuts to typical motor shafts used in hobby robotics -- 4mm, 5mm, and 6mm round shafts, as well as the common TT motor flattened shaft.
 
@@ -31,3 +31,9 @@ The image below shows a wheel mounted on a motor shaft.
 </h3>
 
 A couple pre-built .stl files are included in the .stl folder here. Note that the hubs are best printed in the vertical orientation with nut end down.  They should be printed fairly slowly for best results.  
+
+### Some sample wheels</h3>
+Just as an example, some of the wheels I have used are shown here
+* 95mm x 38mm wide : https://www.amazon.com/Buggy-Rubber-Tires-Spoke-Wheel/dp/B00W10IJEG  
+* 76mm x 30mm wide : https://www.amazon.com/4-Pack-HobbyPark-2-99-inch-Rubber/dp/B071ZX9JB7 
+* 63mm x 25mm wide : https://www.amazon.com/Tires-Wheels-Rims-Shaped-Width/dp/B01MTSMNAZ 
