@@ -11,7 +11,7 @@ This project creates 3d-printable hub adaptors that mate those 12mm hex nuts to 
 
 They are created in OpenSCAD, which is a text-based CAD tool that runs on Windows, Linux, and MAC (download it from https://openscad.org/ if you don't have it already).  Put the file provided here in a folder on your computer, then open it in OpenSCAD.  Note that this tool is setup to use OpenSCAD's "customizer" feature to select the part you want, but this tool is hidden by default.  To show the customizer, just go to OpenSCAD's "View" menu and uncheck the "Hide Customizer" checkbox.
 
-Once the customizer is visible you will see some dropdowns available (probably on the right side of your screen).  Select the "part" you want to create from the "art" dropdown (you can select the 4mm, 5mm, 6mm, or TT shaft version).  You may also select a "hub length" parameter that defines how long the adaptor is (wide tires will need longer adaptors than skinny tires), and the location for the "grub screws" that will help attach the adaptor to your motor shaft.
+Once the customizer is visible you will see some dropdowns available (probably on the right side of your screen).  Select the "part" you want to create from the "part" dropdown (you can select the 4mm, 5mm, 6mm, or TT shaft version).  You may also select a "hub length" parameter that defines how long the adaptor is (wide tires will need longer adaptors than skinny tires), and the location for the "grub screws" that will help attach the adaptor to your motor shaft.
 
 Whenever you change any of the dropdowns, it will redraw the image on screen.  When you have the adaptor as you wish it, click F6 or "Design/Render" on the menubar to make a finished render of the model, then select "File/Export" to save an .stl file for your printer.
 
@@ -21,13 +21,13 @@ If your printer tolerances are different than mine you may adjust the size of th
 
 The image below shows the OpenSCAD screen.  Note the Customizer menu on the right side.
 
-<h1 align="center">
-	<img width="480" src="https://github.com/dnkorte/12mm_hex_wheel_adaptor/blob/main/images/openscad_screen.jpg" alt="Picture of wheels and adaptors"><br>Sample Wheels and adaptors
-</h1>
+<h3 align="center">
+	<img width="480" src="https://github.com/dnkorte/12mm_hex_wheel_adaptor/blob/main/images/openscad_screen.jpg" alt="Picture of wheels and adaptors"><br>OpenSCAD screen
+</h3>
 
 The image below shows a wheel mounted on a motor shaft.
-<h1 align="center">
-	<img width="480" src="https://github.com/dnkorte/12mm_hex_wheel_adaptor/blob/main/images/mount_hub_to_wheel.jpg" alt="Picture of wheels and adaptors"><br>Sample Wheels and adaptors
-</h1>
+<h3 align="center">
+	<img width="480" src="https://github.com/dnkorte/12mm_hex_wheel_adaptor/blob/main/images/mount_hub_to_wheel.jpg" alt="Picture of wheels and adaptors"><br>Wheel mounted on adaptor
+</h3>
 
 A couple pre-built .stl files are included in the .stl folder here. Note that the hubs are best printed in the vertical orientation with nut end down.  They should be printed fairly slowly for best results.  
