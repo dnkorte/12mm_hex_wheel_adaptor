@@ -17,7 +17,7 @@ Whenever you change any of the dropdowns, it will redraw the image on screen.  W
 
 The adaptor has a central hole at the "nut" end that is co-axial to the motor shaft -- this hole accepts an M3 screw to attach the adaptor to the wheel.  All screw holes are designed to be self-tapping for M3 bolts.
 
-If your printer tolerances are different than mine you may adjust the size of the screw holes or the shaft clearance holes by editing the project_12mm_hex_wheel_adaptors.scad file.  The relevant lines are 72 - 74; parameters are screwhole_radius_M30_passthru, screwhole_radius_M30_selftap, and axle_clearance_gap.
+If your printer tolerances are different than mine you may adjust the size of the screw holes or the shaft clearance holes by editing the project_12mm_hex_wheel_adaptors.scad file.  The relevant lines are 74-84; parameters are screwhole_radius_M30_passthru, screwhole_radius_M30_selftap, and axle_clearance_gap.
 
 The image below shows the OpenSCAD screen.  Note the Customizer menu on the right side.
 
@@ -37,3 +37,13 @@ Just as an example, some of the wheels I have used are shown here
 * 95mm x 38mm wide : https://www.amazon.com/Buggy-Rubber-Tires-Spoke-Wheel/dp/B00W10IJEG  
 * 76mm x 30mm wide : https://www.amazon.com/4-Pack-HobbyPark-2-99-inch-Rubber/dp/B071ZX9JB7 
 * 63mm x 25mm wide : https://www.amazon.com/Tires-Wheels-Rims-Shaped-Width/dp/B01MTSMNAZ 
+
+### Purchasable Brass Adaptors
+If you prefer to use machined brass adaptors, here are some available for purchase (these are all for 12mm hex wheel end)
+* 6mm motor shaft : https://www.piborg.org/motors-mounts-and-wheels-1140/hub-6mm
+* 5mm motor shaft : https://www.piborg.org/motors-mounts-and-wheels-1140/hub-5mm
+* 4mm motor shaft : https://www.piborg.org/motors-mounts-and-wheels-1140/hub-4mm
+* 3mm motor shaft : https://www.piborg.org/motors-mounts-and-wheels-1140/hub-3mm
+* 5mm motor shaft (8 pcs) : https://www.amazon.com/uxcell-Coupler-Coupling-Flexible-Connector/dp/B08M3H71SW
+* 4mm motor shaft (8 pcs) : https://www.amazon.com/uxcell-Coupler-Coupling-Flexible-Connector/dp/B08M3Z2N8B
+
